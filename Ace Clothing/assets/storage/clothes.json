@@ -1,0 +1,132 @@
+[
+	{	
+		"id": 0,
+		"image":"./assets/images/camisa_fit.jpg",
+		"name":"Slim Fit shirt",
+		"gender":"masculine",
+		"material":"silk",
+		"color":"blue",
+		"origin":"national",
+		"type":"superior"
+	},
+	{
+		"id": 1,
+		"image":"./assets/images/camisa_floral.jpg",
+		"name":"Tov floral shirt",
+		"gender":"masculine",
+		"material":"silk",
+		"color":"white",
+		"origin":"international",
+		"type":"superior"
+	},	
+	{
+		"id": 2,
+		"image":"./assets/images/calça_warrior.jpg",
+		"name":"Warrior Skinny Jeans",
+		"gender":"masculine",
+		"material":"cotton",
+		"color":"black",
+		"origin":"national",
+		"type":"inferior"
+	},
+	{
+		"id": 3,
+		"image":"./assets/images/calça_caiena.jpg",
+		"name":"Cayenne Jeans",
+		"gender":"masculine",
+		"material":"cotton",
+		"color":"blue",
+		"origin":"national",
+		"type":"inferior"
+	},
+	{
+		"id": 4,
+		"image":"./assets/images/calça_destroyed2.jpg",
+		"name":"Destroyed Skinny Jeans",
+		"gender":"masculine",
+		"material":"cotton",
+		"color":"blue",
+		"origin":"national",
+		"type":"inferior"
+	},
+	{
+		"id": 5,
+		"image":"./assets/images/camisa_polo.jpg",
+		"name":"Polo shirt",
+		"gender":"masculine",
+		"material":"cotton",
+		"color":"black",
+		"origin":"national",
+		"type":"superior"
+	},
+	{
+		"id": 6,
+		"image":"./assets/images/vestido_munich.jpg",
+		"name":"Munich Shirt Dress",
+		"gender":"feminine",
+		"material":"cotton",
+		"color":"beige",
+		"origin":"international",
+		"type":"superior"
+	},
+	{
+		"id": 7,
+		"image":"./assets/images/camisa_classic.jpg",
+		"name":"Classic Polo Shirt",
+		"gender":"feminine",
+		"material":"cotton",
+		"color":"black",
+		"origin":"national",
+		"type":"superior"
+	},
+	{
+		"id": 8,
+		"image":"./assets/images/calça_skinny.jpg",
+		"name":"Skinny Jeans",
+		"gender":"feminine",
+		"material":"cotton",
+		"color":"black",
+		"origin":"national",
+		"type":"inferior"
+	},
+	{
+		"id": 9,
+		"image":"./assets/images/calça_band.jpg",
+		"name":"Slide Band Pants",
+		"gender":"masculine",
+		"material":"silk",
+		"color":"black",
+		"origin":"national",
+		"type":"inferior"
+	},
+	{
+		"id": 10,
+		"image":"./assets/images/camisa_royal.jpg",
+		"name":"royal polo shirt",
+		"gender":"masculine",
+		"material":"cotton",
+		"color":"blue",
+		"origin":"national",
+		"type":"superior"
+	},
+	{
+		"id": 11,
+		"image":"./assets/images/camiseta_alkary.jpg",
+		"name":"Alkary 3/4 sleeve T-shirt",
+		"gender":"masculine",
+		"material":"cotton",
+		"color":"white",
+		"origin":"national",
+		"type":"superior"
+	},
+	{
+		"id": 12,
+		"image":"./assets/images/camisa_xadrez.jpg",
+		"name":"Long Sleeve Plaid Shirt",
+		"gender":"feminine",
+		"material":"cotton",
+		"color":"white",
+		"origin":"national",
+		"type":"superior"
+	}
+]
